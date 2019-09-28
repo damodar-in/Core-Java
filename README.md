@@ -1,5 +1,5 @@
 # Core-Java
-core java concept's in details <br/>
+Core java concept's in details <br/>
 Program to calling return-type & non-parameterized method
 ### Main Class
 ```
